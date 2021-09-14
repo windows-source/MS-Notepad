@@ -1,4 +1,4 @@
-## Welcome to Notepad Leak Page
+## Welcome to Notepad Leaked Source Code Page
 
 This website is meant for Notepad development.
 
